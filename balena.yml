@@ -194,7 +194,7 @@ assets:
     type: blob.asset
     data:
       url: >-
-        https://raw.githubusercontent.com/mpous/helium-data-hotspot/main/logo.png
+        https://raw.githubusercontent.com/pe1mew/helium-data-hotspot/main/logo.png
 data:
   applicationEnvironmentVariables:
     - VARIANT: DIY-RAK2287
