@@ -183,13 +183,13 @@ post-provisioning: >-
     
   ## Contributions are open
     
-  Feel free to contribute into the repo [here](https://github.com/mpous/helium-data-hotspot).
+  Feel free to contribute into the repo [here](https://github.com/pe1mew/helium-data-hotspot).
   
 assets:
   repository:
     type: blob.asset
     data:
-      url: 'https://github.com/mpous/helium-data-hotspot'
+      url: 'https://github.com/pe1mew/helium-data-hotspot'
   logo:
     type: blob.asset
     data:
