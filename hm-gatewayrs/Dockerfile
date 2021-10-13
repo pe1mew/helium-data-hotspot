@@ -22,7 +22,7 @@ RUN \
 # Pull in latest helium gatewayrs deb file and install
 # Update to meet latest release as available at 13-10-2021
 RUN wget https://github.com/helium/gateway-rs/releases/download/v1.0.0-alpha.19/helium-gateway-v1.0.0-alpha.19-raspi234.deb
-RUN dpkg -i helium-gateway-*-raspi01.deb
+RUN dpkg -i helium-gateway-*-raspi234.deb
 
 # Copy start script and settings file
 COPY start-gatewayrs.sh .
